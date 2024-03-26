@@ -105,8 +105,9 @@
     transition: all 0.3s ease-in;
   }
   #convert-btn:hover {
-    background: linear-gradient(to bottom, #4a47e7, #322fda);
-  } 
+    background: linear-gradient(to bottom, #efb5b5, #d799b0);
+  }
+  
   .fa {
     margin-left: -12px;
     margin-right: 8px;
